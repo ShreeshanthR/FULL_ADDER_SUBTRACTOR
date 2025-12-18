@@ -40,8 +40,6 @@ Borrow out = A'Bin + A'B + BBin
 
 **Procedure**
 
-Type the program in Quartus software.
-
 Compile and run the program.
 
 Generate the RTL schematic and save the logic diagram.
